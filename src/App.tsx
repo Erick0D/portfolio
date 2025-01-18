@@ -36,7 +36,7 @@ function App() {
       description: 'Real-time chat application built with Firebase and Dart.',
       viewLink: 'https://drive.google.com/file/d/10YCU4r0E6H8e0W4zJ4lBqsUCnToP_4PN/view?usp=sharing',
       sourceLink: 'https://github.com/Erick0D/AppZap',
-      preview: 'https://www.youtube-nocookie.com/embed/84d1lgC0bwk?si=ZyXXlDeej8o83IDY&amp;controls=0&autoplay=1&mute=1', 
+      preview: 'https://www.youtube-nocookie.com/embed/84d1lgC0bwk?si=ZyXXlDeej8o83IDY&amp;controls=0&autoplay=1&mute=1&loop=1', 
     },
     {
       name: 'Mercado de Granjas',
@@ -44,7 +44,7 @@ function App() {
       viewLink: 'https://youtu.be/9VK1mHWtyK4?si=coqSEQvwM5OU5gny',
       sourceLink: 'https://github.com/Erick0D/Ceiba',
       image: 'https://example.com/image4.jpg',
-      preview: 'https://www.youtube-nocookie.com/embed/9VK1mHWtyK4?si=F066uwtxUzMnvkW-&amp;controls=0&autoplay=1&mute=1', 
+      preview: 'https://www.youtube-nocookie.com/embed/9VK1mHWtyK4?si=F066uwtxUzMnvkW-&amp;controls=0&autoplay=1&mute=1&loop=1', 
     },
     {
       name: 'CITE',
