@@ -54,6 +54,21 @@ function App() {
       image: 'https://example.com/image5.jpg',
       preview: 'https://erick0d.github.io/Repositorio/', 
     },
+    {
+      name: 'Clima.lat',
+      description: 'Real-time Weather App with React + Vite.',
+      viewLink: 'https://clima.lat/',
+      sourceLink: 'https://clima.lat/',
+      image: 'https://clima.lat/',
+      preview: 'https://clima.lat/', 
+    },{
+      name: '10MinMail',
+      description: 'Temporary Email service with Next.js',
+      viewLink: 'https://10minmail.vip',
+      sourceLink: 'https://10minmail.vip',
+      image: 'https://10minmail.vip',
+      preview: 'https://10minmail.vip', 
+    },
   ];
 
   return (
